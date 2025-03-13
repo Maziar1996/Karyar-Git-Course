@@ -16,3 +16,4 @@ If you've finished the course, please add your name and github account in a Pull
 |Full Name| Github Account | 
 |--|--| 
 | fateme aliakbari | [Github](https://github.com/fateme-alk) | 
+| Muhammad Ali Baghaei | [Github](https://github.com/Maziar1996) 
